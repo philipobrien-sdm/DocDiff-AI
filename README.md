@@ -2,7 +2,8 @@
 
 **AI-powered document review that goes beyond "Track Changes." Compare previous tracked versions against new drafts to extract strategic insights, score changes, and analyze stakeholder priorities.**
 
-![DocDiff AI Demo Placeholder]
+<img width="1669" height="998" alt="Screenshot 2025-12-02 204226" src="https://github.com/user-attachments/assets/2be789db-09ab-4b13-af36-70c65583b7bb" />
+
 
 ## About The Project
 
