@@ -1,0 +1,5 @@
+{
+  "name": "DocDiff AI",
+  "description": "Intelligent document comparison tool that analyzes tracked changes and comments from previous versions against new drafts using Gemini AI.",
+  "requestFramePermissions": []
+}
